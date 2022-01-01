@@ -1,2 +1,2 @@
 # luvia-vsc-theme
-🔜
+soon ☺
