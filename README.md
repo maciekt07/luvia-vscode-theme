@@ -1,3 +1,4 @@
 # luvia-vsc-theme
-soon ☺
+soon 💜
+
 ![prev](https://raw.githubusercontent.com/maciekkoks/luvia-vsc-theme/main/prev.png)
