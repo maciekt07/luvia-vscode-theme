@@ -1,5 +1,5 @@
 # luvia-vsc-theme
-soon 💜
+Work in progress 💜
 
 ![prev](https://raw.githubusercontent.com/maciekkoks/luvia-vsc-theme/main/preview.png)
 ![rain](https://raw.githubusercontent.com/maciekkoks/luvia-vsc-theme/main/Static/rain-after.png)
