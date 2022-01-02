@@ -1,4 +1,4 @@
-# [luvia-vsc-theme](https://marketplace.visualstudio.com/items?itemName=maciekkoks.luvia-vsc-theme)
+# [luvia-vsc-theme](https://marketplace.visualstudio.com/items?itemName=maciekkoks.luvia-theme)
 Dark Visual Studio Code Theme with purple accents. Work in progress 💜
 
 ![logo](https://raw.githubusercontent.com/maciekkoks/luvia-vsc-theme/main/Static/luvialogo.png)
