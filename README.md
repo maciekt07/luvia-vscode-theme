@@ -22,11 +22,12 @@ Logo created in Adobe Experience Design (XD)
 | Color&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Use |
 | ---------- | ------------------------------------------------------------ |
 | ![](https://via.placeholder.com/15/9bb5e6/9bb5e6?text=+) `#9bb5e6` | Editor Foreground |
-| ![d](https://via.placeholder.com/15/e06c92/e06c92?text=+) `#e06c92` | Variables, Properties |
-| ![k](https://via.placeholder.com/15/ce98de/ce98de?text=+) `#ce98de` | Keywords |
-| ![d](https://via.placeholder.com/15/f5997de5/f5997de5?text=+) `#f5997de5` | Numbers |
-| ![](https://via.placeholder.com/15/008dff/008dff?text=+) `#008dff` | Functions, Methods |
-| ![](https://via.placeholder.com/15/5cebf2/5cebf2?text=+) `#5cebf2` | Strings |
+| ![](https://via.placeholder.com/15/db5984/db5984?text=+) `#db5984` | Variables, Properties |
+| ![](https://via.placeholder.com/15/dd6cff/dd6cff?text=+) `#dd6cff` | Keywords |
+| ![](https://via.placeholder.com/15/f08160/f08160?text=+) `#f08160` | Numbers |
+| ![](https://via.placeholder.com/15/844cff/844cff?text=+) `#844cff` | Classes, Constants |
+| ![](https://via.placeholder.com/15/009fff/009fff?text=+) `#009fff` | Functions, Methods |
+| ![](https://via.placeholder.com/15/66f8ffed/66f8ffed?text=+) `#66f8ffed` | Strings |
 | ![](https://via.placeholder.com/15/ff52e3dd/ff52e3dd?text=+) `#ff52e3dd` | Operators, Special Functions |
 | ![](https://via.placeholder.com/15/c5bfd1b7/c5bfd1b7?text=+) `#c5bfd1b7` | Comments |
 | ![](https://via.placeholder.com/15/14121b/14121b?text=+) `#14121b` | Widgets Background |
@@ -42,4 +43,5 @@ Logo created in Adobe Experience Design (XD)
 Made with 💜 by [maciekkoks](https://github.com/maciekkoks)
 
 [GitHub repository](https://github.com/maciekkoks/luvia-vsc-theme)
+[Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=maciekkoks.luvia-theme)
 
