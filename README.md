@@ -43,5 +43,6 @@ Logo created in Adobe Experience Design (XD)
 Made with 💜 by [maciekkoks](https://github.com/maciekkoks)
 
 [GitHub repository](https://github.com/maciekkoks/luvia-vsc-theme)
+
 [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=maciekkoks.luvia-theme)
 
