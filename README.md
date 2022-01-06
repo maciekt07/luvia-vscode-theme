@@ -6,7 +6,6 @@ Dark Visual Studio Code Theme with purple accents. Work in progress 💜
 
 ![logo](https://raw.githubusercontent.com/maciekkoks/luvia-vsc-theme/main/Static/luvia%20main%20logo.png)
 
-Logo created in Adobe Experience Design (XD)
 
 
 # Screenshots
