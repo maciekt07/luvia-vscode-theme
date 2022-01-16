@@ -3,7 +3,7 @@
     "displayName": "Luvia Theme",
     "description": "Dark Theme for VSCode ",
     "icon": "icon.png",
-    "version": "0.1.7",
+    "version": "0.1.9",
     "publisher": "maciekkoks",
     "repository": {
         "type": "git",
