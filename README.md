@@ -12,7 +12,6 @@ Dark Visual Studio Code Theme with purple accents. Work in progress 💜
 
 ![rain](https://raw.githubusercontent.com/maciekkoks/luvia-vsc-theme/main/Static/rain-background-preview.png)
 ![full-window](https://raw.githubusercontent.com/maciekkoks/luvia-vsc-theme/main/Static/full-window-preview.png)
-![prev](https://raw.githubusercontent.com/maciekkoks/luvia-vsc-theme/main/Static/preview.png)
 ![meme](https://raw.githubusercontent.com/maciekkoks/luvia-vsc-theme/main/Static/gigafunny.png)
 
 
