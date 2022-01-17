@@ -39,6 +39,7 @@ Dark Visual Studio Code Theme with purple accents. Work in progress 💜
 | ![](https://via.placeholder.com/15/ffffffc5/ffffffc5?text=+) `#ffffffc5` | Terminal Foreground |
 
 if u like it u can buy me a coffee <3 https://www.buymeacoffee.com/maciekt07
+
 Made with 💜 by [maciekkoks](https://github.com/maciekkoks)
 
 [GitHub repository](https://github.com/maciekkoks/luvia-vsc-theme)
