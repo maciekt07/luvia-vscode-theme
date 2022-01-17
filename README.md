@@ -42,12 +42,18 @@ Dark Visual Studio Code Theme with purple accents. Work in progress 💜
 
 <br />
 
-### if u like it, u can buy me a coffee <3 [https://www.buymeacoffee.com/maciekt07](https://www.buymeacoffee.com/maciekt07)
+### if u like it, u can buy me a coffee <3
 
-### Made with 💜 by [maciekkoks](https://github.com/maciekkoks)
+<a href="https://www.buymeacoffee.com/maciekt07"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=maciekt07&button_colour=BD5FFF&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00"></a>
+
+<br />
+
+
+Made with 💜 by [maciekkoks](https://github.com/maciekkoks)
 
 <br />
 
 [GitHub repository](https://github.com/maciekkoks/luvia-vsc-theme)
+
 [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=maciekkoks.luvia-theme)
 
