@@ -15,7 +15,7 @@ Dark Visual Studio Code Theme with purple accents. Work in progress 💜
 ![meme](https://raw.githubusercontent.com/maciekkoks/luvia-vsc-theme/main/Static/gigafunny.png)
 
 
-<br />
+
 
 ## Color Palette
 #### Luvia Theme Dark
@@ -40,16 +40,14 @@ Dark Visual Studio Code Theme with purple accents. Work in progress 💜
 | ![](https://via.placeholder.com/15/1d1f28/1d1f28?text=+) `#1d1f28` | Terminal Background |
 | ![](https://via.placeholder.com/15/ffffffc5/ffffffc5?text=+) `#ffffffc5` | Terminal Foreground |
 
-
 <br />
 
-### if u like it, u can buy me a coffee <3 https://www.buymeacoffee.com/maciekt07
+### if u like it, u can buy me a coffee <3 [https://www.buymeacoffee.com/maciekt07](https://www.buymeacoffee.com/maciekt07)
+
+### Made with 💜 by [maciekkoks](https://github.com/maciekkoks)
 
 <br />
-
-Made with 💜 by [maciekkoks](https://github.com/maciekkoks)
 
 [GitHub repository](https://github.com/maciekkoks/luvia-vsc-theme)
-
 [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=maciekkoks.luvia-theme)
 
