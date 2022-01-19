@@ -1,4 +1,4 @@
-# [luvia-vsc-theme](https://vscode.dev/theme/maciekkoks.luvia-theme/Luvia%20Theme%20)
+# [luvia-vscode-theme](https://vscode.dev/theme/maciekkoks.luvia-theme/Luvia%20Theme%20)
 
 Dark Visual Studio Code Theme with purple accents for those who code at night. Work in progress 💜
 
