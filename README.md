@@ -42,14 +42,34 @@ Dark Visual Studio Code Theme with purple accents. Work in progress 💜
 
 <br />
 
-### if u like it, u can buy me a coffee <3
+## Installation
 
-<a href="https://www.buymeacoffee.com/maciekt07"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=maciekt07&button_colour=1d1f28&font_colour=ffffff&font_family=Lato&outline_colour=ffffff&coffee_colour=FFDD00"></a>
+1. Open the **Extensions** sidebar panel in VS Code. `View → Extensions`
+
+2. Search for `Luvia`
+
+3. Click `Install`
+
+4. When prompted, select `Luvia Theme` as the color theme
+
+> In case of not being prompted to select a Color Theme upon installing, go to the menu bar and select: `Code (File, on Windows) > Preferences > Color Theme > Luvia Theme`. Alternatively, you can use the shortcut `⌘/Ctrl + K > ⌘/Ctrl + T` and select `Luvia Theme`.
+
+<br />
+
+## Issues
+If you found an issue, you can report it in the [github issues](https://github.com/maciekkoks/luvia-vsc-theme/issues)
 
 <br />
 
 
+## Credits
+
 Made with 💜 by [maciekkoks](https://github.com/maciekkoks)
+
+if u like it, u can buy me a coffee <3
+
+<a href="https://www.buymeacoffee.com/maciekt07"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=maciekt07&button_colour=1d1f28&font_colour=ffffff&font_family=Lato&outline_colour=ffffff&coffee_colour=FFDD00"></a>
+
 
 <br />
 
