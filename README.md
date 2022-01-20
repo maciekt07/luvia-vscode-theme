@@ -1,21 +1,16 @@
-# [luvia-vscode-theme](https://vscode.dev/theme/maciekkoks.luvia-theme/Luvia%20Theme%20)
+# [luvia-vsc-theme](vscode:extension/maciekkoks.luvia-theme)
 
 Dark Visual Studio Code Theme with purple accents for those who code at night. Work in progress 💜
 
-
+[Online preview in vscode.dev](https://vscode.dev/theme/maciekkoks.luvia-theme/Luvia%20Theme%20)
 
 ![logo](https://raw.githubusercontent.com/maciekkoks/luvia-vsc-theme/main/Static/luvia%20baner%2030.png)
-
-
 
 # Screenshots
 
 ![rain](https://raw.githubusercontent.com/maciekkoks/luvia-vsc-theme/main/Static/rain-background-preview.png)
 ![full-window](https://raw.githubusercontent.com/maciekkoks/luvia-vsc-theme/main/Static/full-window-preview.png)
 ![meme](https://raw.githubusercontent.com/maciekkoks/luvia-vsc-theme/main/Static/gigafunny.png)
-
-
-
 
 ## Color Palette
 #### Luvia Theme Dark
@@ -61,7 +56,6 @@ If you found an issue, you can report it in the [github issues](https://github.c
 
 <br />
 
-
 ## Credits
 
 Made with 💜 by [maciekkoks](https://github.com/maciekkoks)
@@ -70,16 +64,14 @@ if u like it, u can buy me a coffee <3
 
 <a href="https://www.buymeacoffee.com/maciekt07"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=maciekt07&button_colour=1d1f28&font_colour=ffffff&font_family=Lato&outline_colour=ffffff&coffee_colour=FFDD00"></a>
 
+### Github repository
+
+</a>
+<a href="https://github.com/maciekkoks/luvia-vsc-theme">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maciekkoks&repo=luvia-vsc-theme&theme=tokyonight" />
+</a> 
 
 <br />
 
-[Online preview in vscode.dev](https://vscode.dev/theme/maciekkoks.luvia-theme/Luvia%20Theme%20)
-
 [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=maciekkoks.luvia-theme)
-
-[GitHub repository](https://github.com/maciekkoks/luvia-vsc-theme)
-
-
-
-
 
