@@ -78,7 +78,7 @@ if u like it, u can buy me a coffee <3
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maciekkoks&repo=luvia-vsc-theme&theme=tokyonight" />
 </a> 
 
-<br />
+<br /><br />
 
 [Online preview in vscode.dev](https://vscode.dev/theme/maciekkoks.luvia-theme/Luvia%20Theme%20)
 
