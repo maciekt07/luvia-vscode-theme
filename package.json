@@ -1,13 +1,16 @@
 {
     "name": "luvia-theme",
     "displayName": "Luvia Theme",
-    "description": "Dark Theme for VSCode ",
+    "description": "Dark Visual Studio Code Theme for those who code at night.",
     "icon": "icon.png",
-    "version": "0.1.9",
+    "version": "0.1.24",
     "publisher": "maciekkoks",
     "repository": {
         "type": "git",
         "url": "https://github.com/maciekkoks/luvia-vsc-theme"
+    },
+    "bugs": {
+        "url": "https://github.com/maciekkoks/luvia-vscode-theme/issues"
     },
     "license": "MIT",
     "keywords": [
@@ -20,13 +23,22 @@
         "luvia-vsc-theme",
         "lluvia",
         "rain",
-        "rain theme"
+        "rain theme",
+        "clean",
+        "contrast",
+        "purple"
     ],
     "engines": {
         "vscode": "^1.63.0"
     },
+    "galleryBanner": {
+        "color": "#1d1f28",
+        "theme": "dark"
+    },
+    "homepage": "https://github.com/maciekkoks/luvia-vscode-theme",
     "categories": [
-        "Themes"
+        "Themes",
+        "Other"
     ],
     "contributes": {
         "themes": [
