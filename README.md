@@ -1,4 +1,4 @@
-# [luvia-vsc-theme](https://vscode.dev/theme/maciekkoks.luvia-theme/Luvia%20Theme%20)
+# [luvia-vscode-theme](https://vscode.dev/theme/maciekkoks.luvia-theme/Luvia%20Theme%20)
 
 Dark Visual Studio Code Theme with purple accents for those who code at night. Work in progress 💜
 
@@ -12,8 +12,26 @@ Dark Visual Studio Code Theme with purple accents for those who code at night. W
 
 ![rain](https://raw.githubusercontent.com/maciekkoks/luvia-vsc-theme/main/Static/rain-background-preview.png)
 ![full-window](https://raw.githubusercontent.com/maciekkoks/luvia-vsc-theme/main/Static/full-window-preview.png)
-![meme](https://raw.githubusercontent.com/maciekkoks/luvia-vsc-theme/main/Static/gigafunny.png)
 
+# REACT
+
+![react](https://raw.githubusercontent.com/maciekkoks/luvia-vscode-theme/main/Static/langs/react.png)
+
+# HTML
+
+![html](https://raw.githubusercontent.com/maciekkoks/luvia-vscode-theme/main/Static/langs/html.png)
+
+# CSS
+
+![css](https://raw.githubusercontent.com/maciekkoks/luvia-vscode-theme/main/Static/langs/css.png)
+
+# JS
+
+![js](https://raw.githubusercontent.com/maciekkoks/luvia-vscode-theme/main/Static/langs/js.png)
+
+# JSON
+
+![json](https://raw.githubusercontent.com/maciekkoks/luvia-vscode-theme/main/Static/langs/json.png)
 
 
 
