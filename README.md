@@ -1,8 +1,8 @@
 # [luvia-vscode-theme](https://vscode.dev/theme/maciekkoks.luvia-theme/Luvia%20Theme%20)
 
-![installs](https://img.shields.io/visual-studio-marketplace/i/maciekkoks.luvia-theme?color=%23804fb3&style=for-the-badge)
-![rating](https://img.shields.io/visual-studio-marketplace/r/maciekkoks.luvia-theme?color=%23804fb3&style=for-the-badge)
-![license](https://img.shields.io/github/license/maciekkoks/luvia-vscode-theme?color=%23804fb3&style=for-the-badge)
+![installs](https://img.shields.io/visual-studio-marketplace/i/maciekkoks.luvia-theme?color=%23804fb3&style=flat)
+![rating](https://img.shields.io/visual-studio-marketplace/r/maciekkoks.luvia-theme?color=%23804fb3&style=flat)
+![license](https://img.shields.io/github/license/maciekkoks/luvia-vscode-theme?color=%23804fb3&style=flat)
 
 Dark Visual Studio Code Theme with purple accents for those who code at night. Work in progress 💜
 
