@@ -10,7 +10,7 @@
 
 
 
-Dark Visual Studio Code Theme with purple accents for those who code at night. Work in progress 💜
+Dark Visual Studio Code Theme with purple accents for those who code at night.
 
 
 
@@ -105,6 +105,12 @@ if u like it, u can buy me a coffee <3
 <a href="https://github.com/maciekkoks/luvia-vsc-theme">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maciekkoks&repo=luvia-vsc-theme&theme=tokyonight" />
 </a> 
+
+<br />
+
+### Product Hunt
+
+<a href="https://www.producthunt.com/posts/luvia-theme-for-visual-studio-code?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-luvia&#0045;theme&#0045;for&#0045;visual&#0045;studio&#0045;code" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=334439&theme=dark" alt="Luvia&#0032;Theme&#0032;For&#0032;Visual&#0032;Studio&#0032;Code - Dark&#0032;Visual&#0032;Studio&#0032;Code&#0032;theme&#0032;for&#0032;those&#0032;who&#0032;code&#0032;at&#0032;night | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 <br /><br />
 
