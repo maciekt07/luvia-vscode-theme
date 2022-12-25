@@ -12,12 +12,6 @@
 
 Dark Visual Studio Code Theme with purple accents for those who code at night.
 
-
-
-![logo](https://raw.githubusercontent.com/maciekkoks/luvia-vsc-theme/main/Static/luvia%20baner%2030.png)
-
-
-
 # Screenshots
 
 ![rain](https://raw.githubusercontent.com/maciekkoks/luvia-vsc-theme/main/Static/rain-background-preview.png)
