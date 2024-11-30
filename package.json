@@ -1,52 +1,52 @@
 {
-    "name": "luvia-theme",
-    "displayName": "Luvia Theme",
-    "description": "Dark Visual Studio Code Theme for those who code at night.",
-    "icon": "icon.png",
-    "version": "0.1.24",
-    "publisher": "maciekkoks",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/maciekkoks/luvia-vsc-theme"
-    },
-    "bugs": {
-        "url": "https://github.com/maciekkoks/luvia-vscode-theme/issues"
-    },
-    "license": "MIT",
-    "keywords": [
-        "theme",
-        "dark theme",
-        "maciekkoks",
-        "maciekt07",
-        "luvia",
-        "luvia theme",
-        "luvia-vsc-theme",
-        "lluvia",
-        "rain",
-        "rain theme",
-        "clean",
-        "contrast",
-        "purple"
-    ],
-    "engines": {
-        "vscode": "^1.63.0"
-    },
-    "galleryBanner": {
-        "color": "#1d1f28",
-        "theme": "dark"
-    },
-    "homepage": "https://github.com/maciekkoks/luvia-vscode-theme",
-    "categories": [
-        "Themes",
-        "Other"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Luvia Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Luvia Theme-color-theme.json"
-            }
-        ]
-    }
+  "name": "luvia-theme",
+  "displayName": "Luvia Theme",
+  "description": "A purple-ish theme that dark mode lovers and who code at night would thoroughly enjoy.",
+  "icon": "icon.png",
+  "version": "0.1.25",
+  "publisher": "maciekkoks",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maciekkoks/luvia-vsc-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/maciekkoks/luvia-vscode-theme/issues"
+  },
+  "license": "MIT",
+  "keywords": [
+    "theme",
+    "dark theme",
+    "maciekkoks",
+    "maciekt07",
+    "luvia",
+    "luvia theme",
+    "luvia-vsc-theme",
+    "lluvia",
+    "rain",
+    "rain theme",
+    "clean",
+    "contrast",
+    "purple"
+  ],
+  "engines": {
+    "vscode": "^1.63.0"
+  },
+  "galleryBanner": {
+    "color": "#1d1f28",
+    "theme": "dark"
+  },
+  "homepage": "https://github.com/maciekt07/luvia-vscode-theme",
+  "categories": [
+    "Themes",
+    "Other"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Luvia Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Luvia Theme-color-theme.json"
+      }
+    ]
+  }
 }
