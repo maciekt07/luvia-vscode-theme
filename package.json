@@ -2,8 +2,8 @@
   "name": "luvia-theme",
   "displayName": "Luvia Theme",
   "description": "A purple-ish theme that dark mode lovers and who code at night would thoroughly enjoy.",
-  "icon": "icon.png",
-  "version": "0.1.26",
+  "icon": "static/icon.png",
+  "version": "0.1.27",
   "publisher": "maciekkoks",
   "repository": {
     "type": "git",
