@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/maciekt07/luvia-vscode-theme/main/static/icon.png" />
+<img src="https://raw.githubusercontent.com/maciekt07/luvia-vscode-theme/refs/heads/main/static/icon.png" />
 </p>
 
 # [luvia-vscode-theme](https://vscode.dev/theme/maciekkoks.luvia-theme/Luvia%20Theme%20)
