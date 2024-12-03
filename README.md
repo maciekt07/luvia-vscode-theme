@@ -1,12 +1,12 @@
+<p align="center">
+<img src="https://raw.githubusercontent.com/maciekt07/luvia-vscode-theme/main/icon.png" />
+</p>
+
 # [luvia-vscode-theme](https://vscode.dev/theme/maciekkoks.luvia-theme/Luvia%20Theme%20)
 
-<a href="https://marketplace.visualstudio.com/items?itemName=maciekkoks.luvia-theme" target="_blank">
-  
 ![installs](https://img.shields.io/visual-studio-marketplace/i/maciekkoks.luvia-theme?color=%23804fb3&style=flat)
 ![rating](https://img.shields.io/visual-studio-marketplace/r/maciekkoks.luvia-theme?color=%23804fb3&style=flat)
 ![license](https://img.shields.io/github/license/maciekkoks/luvia-vscode-theme?color=%23804fb3&style=flat)
-  
-</a>
 
 A purple-ish theme that dark mode lovers and who code at night would thoroughly enjoy.
 
