@@ -103,6 +103,6 @@ Made with 💜 by [maciekt07](https://github.com/maciekt07)
 
 <br /><br />
 
-[Online preview in vscode.dev](https://vscode.dev/theme/maciekkoks.luvia-theme/Luvia%20Theme%20)
+[Online preview in vscode.dev](https://vscode.dev/theme/maciekkoks.luvia-theme/Luvia%20Theme)
 
 [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=maciekkoks.luvia-theme)
