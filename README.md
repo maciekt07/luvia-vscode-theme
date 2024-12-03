@@ -12,28 +12,28 @@ A purple-ish theme that dark mode lovers and who code at night would thoroughly 
 
 # Screenshots
 
-![rain](https://raw.githubusercontent.com/maciekt07/luvia-vscode-theme/main/Static/rain-background-preview.png)
-![full-window](https://raw.githubusercontent.com/maciekt07/luvia-vscode-theme/main/Static/full-window-preview.png)
+![rain](https://raw.githubusercontent.com/maciekt07/luvia-vscode-theme/refs/heads/main/static/rain-background-preview.png)
+![full-window](https://raw.githubusercontent.com/maciekt07/luvia-vscode-theme/refs/heads/main/static/full-window-preview.png)
 
 # REACT
 
-![react](https://raw.githubusercontent.com/maciekt07/luvia-vscode-theme/main/Static/langs/react.png)
+![react](https://raw.githubusercontent.com/maciekt07/luvia-vscode-theme/refs/heads/main/static/langs/react.png)
 
 # HTML
 
-![html](https://raw.githubusercontent.com/maciekt07/luvia-vscode-theme/main/Static/langs/html.png)
+![html](https://raw.githubusercontent.com/maciekt07/luvia-vscode-theme/refs/heads/main/static/langs/html.png)
 
 # CSS
 
-![css](https://raw.githubusercontent.com/maciekt07/luvia-vscode-theme/main/Static/langs/css.png)
+![css](https://raw.githubusercontent.com/maciekt07/luvia-vscode-theme/refs/heads/main/static/langs/css.png)
 
 # JS
 
-![js](https://raw.githubusercontent.com/maciekt07/luvia-vscode-theme/main/Static/langs/js.png)
+![js](https://raw.githubusercontent.com/maciekt07/luvia-vscode-theme/refs/heads/main/static/langs/js.png)
 
 # JSON
 
-![json](https://raw.githubusercontent.com/maciekt07/luvia-vscode-theme/main/Static/langs/json.png)
+![json](https://raw.githubusercontent.com/maciekt07/luvia-vscode-theme/refs/heads/main/static/langs/json.png)
 
 ## Color Palette
 
